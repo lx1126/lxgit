@@ -3,3 +3,4 @@ create a branch dev
 solve a conflict
 create a another branch
 branch manage strategy
+stash master branch
